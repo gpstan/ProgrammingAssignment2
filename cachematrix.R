@@ -1,4 +1,4 @@
-## cachematrix.R
+## cachematrix.R 
 ## for 2nd programming assignment, Coursera R Programming, Jan. 2016  gpstan
 
 ## develop two functions to address computational cost of matrix inversion. 
